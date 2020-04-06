@@ -18,9 +18,9 @@
     <label for="Uname">User Name:</label><br>
     <input type="text" id="Uname" name="Uname">
         <label for="pass">Password:</label><br>
-        <input type="text" id="pass" name="pass">
+        <input type="password" id="pass" name="pass">
     <label for="Email">Email</label><br>
-    <input type="text" id="Email" name="Email"><br>
+    <input type="email" id="Email" name="Email"><br>
     <label for="DOB">DOB:</label><br>
     <input type="text" id="DOB" name="DOB">
         <label for="ph">Phone:</label><br>
